@@ -1,0 +1,11 @@
+# Discord Bot Library
+discord.py==2.3.2
+
+# Umgebungsvariablen laden
+python-dotenv==1.0.0
+
+# Zeitzone Support
+pytz==2023.3
+
+# HTTP Requests (für Webhooks optional)
+aiohttp==3.9.0
